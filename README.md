@@ -4,6 +4,8 @@ You need to access WHM but the client did not tell you the root password, how do
 
 The WHM API has many options, one of which is to create a temporary token to access.
 
+#### **`Only for cPanel/WHM servers`**
+
 ### How to use
 
 
